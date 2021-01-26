@@ -1,5 +1,5 @@
 def lastLetter(x):
-   return [len(x)] 
+    return x[len(x)-1]
 
 
 

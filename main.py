@@ -1,1 +1,6 @@
-#WRITE YOUR CODE IN THIS FILE
+def lastLetter(x):
+   return [len(x)] 
+
+
+
+print (lastLetter("hey"))
